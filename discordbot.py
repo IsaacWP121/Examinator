@@ -193,4 +193,4 @@ async def on_reaction_add(reaction, user):
             pass
 
 # Run the bot with the specified token
-client.run("MTAzMTUxOTE4MDYzOTQ1MzE5NQ.GuqBZg.hTkSMoaDLEo0gbyiKOBc9g03s9poWqKFybZRO0")
+client.run("token")
